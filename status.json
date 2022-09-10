@@ -1,6 +1,6 @@
 {
    "status":true,
-   "status_check_google":true,
+   "status_check_google":false,
    "start_day_check":"22",
    "end_day_check":"31",
    "link_wa":"https://wa.me/855718184434",
